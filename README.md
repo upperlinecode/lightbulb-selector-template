@@ -1,1 +1,1 @@
-# taco-selector-template
+# Lightbulb Selector Template
